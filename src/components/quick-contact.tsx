@@ -40,8 +40,8 @@ export function QuickContact() {
             </Link>
             
             <Link
-              href="https://cal.com/gaurav-kapur/30min"
-              target="_blank"
+                  href="https://cal.com/aravindhan-b-n2l0be/aravindh-b"
+                  target="_blank"
               rel="noopener noreferrer"
               className="group flex items-center gap-3 px-4 py-3 bg-background border border-border rounded-full shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105"
             >
